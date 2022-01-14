@@ -128,7 +128,7 @@ header table {
     text-align:left;
 }
 .social {
-    color: #AEDBF0;
+    color: #3F7EB3;
     font-size: 23px;
     padding: 12px 17px;
     border-radius: 50%;
@@ -146,9 +146,9 @@ header table {
 .btn_one {
     font-size: 18px;
     font-family: 'Poppins', sans-serif;
-    color: #AEDBF0;
+    color: #3F7EB3;
     background: #fff;
-    border: 3px solid #AEDBF0;
+    border: 3px solid #3F7EB3;
     padding: 8px 40px;
     width: 35%;
     border-radius: 80px;
@@ -164,7 +164,7 @@ header table {
     border: 3px solid #3F7EB3;
 }
 .btn_one a {
-    color: #AEDBF0;
+    color: black;
     border-bottom: 2px solid transparent;
     text-decoration: none;
 }
@@ -187,7 +187,7 @@ header table {
 #education h1 {
     padding: 5px 0px;
     border-bottom: 4px solid #3F7EB3;
-    width: 6%;
+    width: 15%;
 }
 #work {
     width:92vw;
@@ -197,12 +197,12 @@ header table {
 #work h1 {
     padding: 5px 0px;
     border-bottom: 4px solid #3F7EB3;
-    width: 6%;
+    width: 21%;
 }
 #work h2{
     padding: 5px;
     border-bottom: 2px solid #AEDBF0;
-    width: 8%;
+    width: 6%;
 }
 #work a{
     color: black;
@@ -211,6 +211,17 @@ header table {
 }
 #work a:hover {
     color: #3F7EB3
+}
+#experience {
+    width: 92vw;
+    padding: 6vh 4vw;
+    font-weight: bold;
+    background-color: #AEDBF0;
+}
+#experience h1 {
+    padding: 5px 0px;
+    border-bottom: 4px solid #3F7EB3;
+    width: 30%;
 }
 
 
@@ -234,9 +245,10 @@ header table {
     cursor: pointer;
 }
 #bio {
-    width:92vw;
-    padding:6vh 4vw;
-    font-weight:bold;
+    width: 92vw;
+    padding: 6vh 4vw;
+    font-weight: bold;
+    background-color: #AEDBF0;
 }
 #bio h1 {
     padding: 5px 0px;
@@ -244,13 +256,14 @@ header table {
     width: 8%;
 }
 #contact {
-    width:92vw;
-    padding:6vh 4vw;
+    width: 92vw;
+    padding: 6vh 4vw;
+    background-color: #AEDBF0;
 }
 #contact h1 {
     padding: 5px 0px;
     border-bottom: 4px solid #3F7EB3;
-    width: 10%;
+    width: 12%;
 }
 #contact table {
     width:100%;
