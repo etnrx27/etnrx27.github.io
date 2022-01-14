@@ -50,8 +50,9 @@ header table {
     width:20%;
 }
 #navigation {
-    width:80%;
+    width:60%;
 }
+
 #magnify {
     width:100vw;
     height:100vh;
@@ -89,11 +90,11 @@ header table {
     text-align:right;
 }
 #navigation a {
+    font-weight:900;
     color: #3F7EB3;
     text-decoration: none;
-    padding: 5px 10px;
     border-bottom: 2px solid transparent;
-    margin-left: 4vw;
+    margin-left: 1vw;
     transition: 0.4s ease-in-out;
 }
 #navigation a:hover {
@@ -223,7 +224,113 @@ header table {
     border-bottom: 4px solid #3F7EB3;
     width: 30%;
 }
+#community {
+    width: 92vw;
+    padding: 6vh 4vw;
+    font-weight: bold;
+    background-color: #AEDBF0;
+}
+#community h1 {
+    padding: 5px 0px;
+    border-bottom: 4px solid #3F7EB3;
+    width: 30%;
+}
 
+#community img {
+    float: right;
+    padding: 2em;
+    width: 30%;
+}
+
+#webinar {
+    width: 92vw;
+    padding: 6vh 4vw;
+    font-weight: bold;
+    background-color: white;
+}
+
+#webinar h1 {
+    padding: 5px 0px;
+    border-bottom: 4px solid #3F7EB3;
+    width: 25%;
+}
+#webinar img {
+    float:right;
+    padding: 2em;
+    width:40%;
+}
+#VIA {
+    padding: 10px;
+    margin-bottom: 5em;
+    margin-top: 5px;
+}
+#FP2 {
+    padding: 10px;
+    margin-bottom: 5em;
+    margin-top: 5px;
+}
+#CommServe {
+    padding: 10px;
+    margin-bottom: 5em;
+    margin-top: 5px;
+}
+#VIA h3 {
+    padding: 5px;
+    border-bottom: 2px solid white;
+    width: 35%;
+}
+
+#FP2 h3 {
+    padding: 5px;
+    border-bottom: 2px solid white;
+    width: 50%;
+}
+
+#CommServe h3 {
+    padding: 5px;
+    border-bottom: 2px solid white;
+    width: 50%;
+}
+#zoom {
+    padding: 10px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+#zoom h2 {
+    padding: 5px;
+    border-bottom: 2px solid #AEDBF0;
+    width: 50%;
+}
+#fraud {
+    padding: 10px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+#fraud h2 {
+    padding: 5px;
+    border-bottom: 2px solid #AEDBF0;
+    width: 34%;
+}
+#vulnerabilities {
+    padding: 10px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+#vulnerabilities h2 {
+    padding: 5px;
+    border-bottom: 2px solid #AEDBF0;
+    width: 50%;
+}
+#ransomware {
+    padding: 10px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+#ransomware h2 {
+    padding: 5px;
+    border-bottom: 2px solid #AEDBF0;
+    width: 50%;
+}
 
 #photos {
     width:100%;
