@@ -257,22 +257,25 @@ header table {
 #webinar img {
     float:right;
     padding: 2em;
-    width:40%;
+    width:30%;
 }
 #VIA {
-    padding: 10px;
-    margin-bottom: 5em;
-    margin-top: 5px;
+    padding: 2em;
+    margin-bottom: 2em;
+    margin-top: 1em;
+    height: 20em;
 }
 #FP2 {
-    padding: 10px;
+    padding: 2em;
     margin-bottom: 5em;
-    margin-top: 5px;
+    margin-top: 1em;
+    height: 20em;
 }
 #CommServe {
-    padding: 10px;
-    margin-bottom: 5em;
-    margin-top: 5px;
+    padding: 2em;
+    margin-bottom: 2em;
+    margin-top: 1em;
+    height: 20em;
 }
 #VIA h3 {
     padding: 5px;
@@ -292,9 +295,10 @@ header table {
     width: 50%;
 }
 #zoom {
-    padding: 10px;
-    margin-bottom: 5px;
-    margin-top: 5px;
+    padding: 2em;
+    margin-bottom: 1em;
+    margin-top: 1em;
+    height: 25em;
 }
 #zoom h2 {
     padding: 5px;
@@ -302,9 +306,10 @@ header table {
     width: 50%;
 }
 #fraud {
-    padding: 10px;
-    margin-bottom: 5px;
-    margin-top: 5px;
+    padding: 2em;
+    margin-bottom: 1em;
+    margin-top: 1em;
+    height: 25em;
 }
 #fraud h2 {
     padding: 5px;
@@ -312,9 +317,10 @@ header table {
     width: 34%;
 }
 #vulnerabilities {
-    padding: 10px;
-    margin-bottom: 5px;
-    margin-top: 5px;
+    padding: 2em;
+    margin-bottom: 1em;
+    margin-top: 1em;
+    height: 25em;
 }
 #vulnerabilities h2 {
     padding: 5px;
@@ -322,9 +328,10 @@ header table {
     width: 50%;
 }
 #ransomware {
-    padding: 10px;
-    margin-bottom: 5px;
-    margin-top: 5px;
+    padding: 2em;
+    margin-bottom: 1em;
+    margin-top: 1em;
+    height: 25em;
 }
 #ransomware h2 {
     padding: 5px;
