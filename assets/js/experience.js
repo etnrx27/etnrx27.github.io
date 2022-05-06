@@ -62,22 +62,28 @@ document.addEventListener("DOMContentLoaded", showCards2);
 const volunteership = document.querySelector(".volunteership");
 const volunteershipcards = [
   {
-    title: "VIA | GoodLife! Makan | September 2018",
+    title: "VIA | GoodLife! Makan | Sep 2018",
     cardImage: "assets/images/experience-page/goodlifemakan.jpg",
     description:
           "As part of my secondary school's VIA project, my classmates and I went down to GoodLife! Makan to entertain and spend time with the elderly.",
   },
   {
-    title: "FP2 | Yong-En Care Centre | November 2021",
-    cardImage: "assets/images/experience-page/FP2_Community_Event.jpg",
+    title: "FP2 | Yong-En Care Centre | Nov 2021",
+    cardImage: "assets/images/experience-page/yongen.png",
     description:
           "As part of one of my module's project, my classmates and I taught the elderly at Yong-En Care centre on how to use the application, 'Canva'.",
   },
   {
-    title: "CommServe 2021 | Yong-En Care Centre | December 2021",
-    cardImage: "assets/images/experience-page/CommServe.jpg",
+    title: "CommServe | Yong-En Care Centre | Dec 2021",
+    cardImage: "assets/images/experience-page/yongen.png",
     description:
-      "This project involved a few of my friends and we taught the elderly at Yong-En Care Centre on how to use the 'EZ-Link' application.",
+      "This project involved me teaching the elderly at Yong-En Care Centre on how to use the 'EZ-Link' application.",
+  },
+  {
+    title: "Volunteer Digital Ambassador Programme | IMDA | Dec 2021, Feb 2022 - Mar 2022",
+    cardImage: "assets/images/experience-page/imda_volunteer.png",
+    description:
+        "This project involved me teaching the elderly at Heartbeat Bedok to use features on their phones.",
   },
 ];
 
