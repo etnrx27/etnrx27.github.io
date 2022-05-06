@@ -83,7 +83,7 @@ const volunteershipcards = [
     title: "Volunteer Digital Ambassador Programme | IMDA | Dec 2021, Feb 2022 - Mar 2022",
     cardImage: "assets/images/experience-page/imda_volunteer.png",
     description:
-        "This project involved me teaching the elderly at Heartbeat Bedok to use features on their phones.",
+        "This project involved me teaching the elderly on how to use their phones.",
   },
 ];
 
